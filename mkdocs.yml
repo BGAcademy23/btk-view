@@ -67,5 +67,5 @@ markdown_extensions:
           permalink: true
 plugins:
     - search
-    - social
+    - social:
         cards_layout: default
