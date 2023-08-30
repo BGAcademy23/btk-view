@@ -1,71 +1,79 @@
+site_url: https://bga23.org/btk-view
 site_name: btk-view
 edit_uri: https://github.com/bgacademy23/btk-view/blob/main/docs
 
 nav:
-    - Home: README.md
-    - BGA23: https://bga23.org
+  - Home: README.md
+  - BGA23: https://bga23.org
 
 theme:
-    name: material
-    language: en
-    palette:
-        # Palette toggle for dark mode
-        - media: "(prefers-color-scheme: dark)"
-          scheme: slate
-          toggle:
-              icon: material/weather-night
-              name: Switch to light mode
-        # Palette toggle for light mode
-        - media: "(prefers-color-scheme: light)"
-          scheme: default
-          toggle:
-              icon: material/weather-sunny
-              name: Switch to dark mode
-    font:
-        text: Inter
-    features:
-        - content.action.edit
-        - content.code.annotate
-        - content.code.copy
-        - navigation.footer
-        # - navigation.tabs
-        - navigation.top
-        - navigation.tracking
-        - search.highlight
-        - search.share
-        - search.suggest
-        - toc.follow
+  name: material
+  language: en
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  font:
+    text: Inter
+  features:
+    - content.action.edit
+    - content.code.annotate
+    - content.code.copy
+    - navigation.footer
+    # - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
 
 extra:
-    social:
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/BGAcademy23
-          name: Biodiversity Genomics Academy 2023 on Twitter
-        - icon: fontawesome/brands/mastodon
-          link: https://genomic.social/@BGAcademy23
-          name: Biodiversity Genomics Academy 2023 on Mastodon - Genomic.Social
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/BGAcademy23
+      name: Biodiversity Genomics Academy 2023 on Twitter
+    - icon: fontawesome/brands/mastodon
+      link: https://genomic.social/@BGAcademy23
+      name: Biodiversity Genomics Academy 2023 on Mastodon - Genomic.Social
 
 markdown_extensions:
-    - admonition
-    - attr_list
-    - md_in_html
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
-    - pymdownx.details
-    - pymdownx.highlight:
-          anchor_linenums: true
-    - pymdownx.inlinehilite
-    - pymdownx.keys
-    - pymdownx.snippets:
-          base_path: ["."]
-    - pymdownx.snippets
-    - pymdownx.superfences
-    - tables
-    - toc:
-          title: On this page
-          permalink: true
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets:
+      base_path: ["."]
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - toc:
+      title: On this page
+      permalink: true
 plugins:
-    - search
-    - social:
-        cards_layout: default
+  - search
+  - social:
+      cards_layout: default
+      cards_layout_options:
+        font_family: Ubuntu
+        title: Checking for cobionts in public genomes using BlobToolKit
+        description: Biodiversity Genomics Academy 2023 Session on the BlobToolKit command line
+      cards_color:
+        fill: "#0FF1CE"
+        text: "#FFFFFF"
