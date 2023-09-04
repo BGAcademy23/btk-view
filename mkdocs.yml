@@ -4,7 +4,7 @@ edit_uri: https://github.com/bgacademy23/btk-view/blob/main/docs
 
 nav:
   - Home: README.md
-  - Tutorial: tutorial.md
+  - links.md
   - BGA23: https://bga23.org
 
 theme:
