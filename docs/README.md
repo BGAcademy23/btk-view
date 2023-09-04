@@ -12,9 +12,12 @@ Tree of Life Programme, Wellcome Sanger Institute
 
 By the end of this session you will be able to:
 
-1. Navigate the public [BlobToolKit (BTK) viewer](https://blobtoolkit.genomehubs.org/view)
+1. Navigate the public [BlobToolKit (BTK) viewer](https://blobtoolkit.genomehubs.org/view){: target="_blank" }
 2. Find BTK plots for your organism(s) of interest
 3. See if there are cobionts (contaminants, symbionts, parasites, etc) present in the BTK plots of those genome assemblies
+
+## Tutorial
+[Click here](tutorial.md) to access the materials needed in the session
 
 ## Prerequisites
 

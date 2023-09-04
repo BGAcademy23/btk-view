@@ -4,6 +4,7 @@ edit_uri: https://github.com/bgacademy23/btk-view/blob/main/docs
 
 nav:
   - Home: README.md
+  - Tutorial: tutorial.md
   - BGA23: https://bga23.org
 
 theme:
@@ -68,12 +69,3 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
-  - social:
-      cards_layout: default
-      cards_layout_options:
-        font_family: Ubuntu
-        title: Checking for cobionts in public genomes using BlobToolKit
-        description: Biodiversity Genomics Academy 2023 Session on the BlobToolKit command line
-      cards_color:
-        fill: "#0FF1CE"
-        text: "#FFFFFF"
