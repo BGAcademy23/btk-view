@@ -16,7 +16,7 @@ By the end of this session you will be able to:
 2. Find BTK plots for your organism(s) of interest
 3. See if there are cobionts (contaminants, symbionts, parasites, etc) present in the BTK plots of those genome assemblies
 
-## Tutorial
+## Session Materials
 [Click here](tutorial.md) to access the materials needed in the session
 
 ## Prerequisites
