@@ -7,11 +7,11 @@
 A. **_Didymella arachidicola_**
 
 1. Find a public genome assembly
-    - Use the [BlobToolKit (BTK) public genomes viewer](https://blobtoolkit.genomehubs.org/view/) to find <em>Didymella arachidicola</em> - Peanut Leaf Blotch
+    - Use the [BlobToolKit (BTK) public genomes viewer](https://blobtoolkit.genomehubs.org/view/){: target="_blank" } to find <em>Didymella arachidicola</em> - Peanut Leaf Blotch
     - Use the Datasets top menu - (a) Search Bar and the (b) Tree Browser (click on numbers) > Eukaryota > Fungi > Ascomycota > Dothideomycetes > Pleosporales > Didymellaceae > Didymella (tree is not up to date)
 
 2. GC and Coverage filters
-    - Start with <em>Didymella arachidicola</em> again [https://blobtoolkit.genomehubs.org/view/Didymella%20arachidicola/dataset/WOCF01/blob](https://blobtoolkit.genomehubs.org/view/Didymella%20arachidicola/dataset/WOCF01/blob)
+    - Start with <em>Didymella arachidicola</em> again [https://blobtoolkit.genomehubs.org/view/Didymella%20arachidicola/dataset/WOCF01/blob](https://blobtoolkit.genomehubs.org/view/Didymella%20arachidicola/dataset/WOCF01/blob){: target="_blank" }
     - Use the Filters top Menu and change the GC and Coverage so that EXACTLY 1 contig is shown
     - Use the little "reset" link to reset each filter afterwards
     - Use the browser URL to reset the whole plot
@@ -61,7 +61,7 @@ D. **_Gymnoscelis rufifasciata_** Double striped pug (moth)
 
 ## Top Tips
 
-[Cheat Sheet](BTK-cheatsheet-2023-05-12.pdf)
+[Cheat Sheet](BTK-cheatsheet-2023-05-12.pdf){: target="_blank" }
 
 - Copy the URL in the browser bar to save/share a BTK plot
 - Remove everything after "?" in the browser URL to reset the plot
