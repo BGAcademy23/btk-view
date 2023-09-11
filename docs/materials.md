@@ -1,37 +1,6 @@
 # Session Materials
 
-## Links
-
-- [Slides](https://docs.google.com/presentation/d/1rIJTyVkKkw_VEW1osIK7-WAbevRG7gUZ9NzQXGK7wKA/edit?usp=sharing){: target="_blank" }
-- [Cheat Sheet](BTK-cheatsheet-2023-05-12.pdf)
-
-## Top Tips
-
-- Copy the URL in the browser bar to save/share a BTK plot
-- Remove everything after "?" in the browser URL to reset the plot
-
-### Datasets
-- use search bar
-- Click headers to sort results.
-- Click a row to view an assembly.
-- Type in the box at the top of each column to filter assemblies
-- **Customise table** to add useful columns
-
-### Views Menu
-- blob, table (taxonomy assignment), busco, report
-
-### Filters
-- **WHAT is shown**, allow you to keep contigs of interest
-- Numeric (GC, Coverage, BUSCO count)
-- Categorical: Taxonomy rules (Buscogenes, Buscoregions, Bestsumorder) + Taxon_rank (phylum, class, order)
-- Selection: point and click - then use selection menu on top
-
-### Settings
-- **HOW it is shown**
-- plot shape: I always change to Circle, but squares/hex/kites are useful when large numbers of contigs
-- reducer: histograms/bars on the sides
-- axis: change these to zoom
-- static/interactive thresholds
+[Slides](https://docs.google.com/presentation/d/1rIJTyVkKkw_VEW1osIK7-WAbevRG7gUZ9NzQXGK7wKA/edit?usp=sharing){: target="_blank" }
 
 ## Exercises
 
@@ -89,6 +58,36 @@ D. **_Gymnoscelis rufifasciata_** Double striped pug (moth)
 3. Settings > Shape > Plot Connected Windows
 4. Settings > Shape > Plot Grid
 5. Settings > Plot style > Lines
+
+## Top Tips
+
+[Cheat Sheet](BTK-cheatsheet-2023-05-12.pdf)
+
+- Copy the URL in the browser bar to save/share a BTK plot
+- Remove everything after "?" in the browser URL to reset the plot
+
+### Datasets
+- use search bar
+- Click headers to sort results.
+- Click a row to view an assembly.
+- Type in the box at the top of each column to filter assemblies
+- **Customise table** to add useful columns
+
+### Views Menu
+- blob, table (taxonomy assignment), busco, report
+
+### Filters
+- **WHAT is shown**, allow you to keep contigs of interest
+- Numeric (GC, Coverage, BUSCO count)
+- Categorical: Taxonomy rules (Buscogenes, Buscoregions, Bestsumorder) + Taxon_rank (phylum, class, order)
+- Selection: point and click - then use selection menu on top
+
+### Settings
+- **HOW it is shown**
+- plot shape: I always change to Circle, but squares/hex/kites are useful when large numbers of contigs
+- reducer: histograms/bars on the sides
+- axis: change these to zoom
+- static/interactive thresholds
 
 
 
